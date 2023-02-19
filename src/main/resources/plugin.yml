@@ -1,0 +1,4 @@
+name: MyFirstPlugin
+main: me.gadriel.Main
+author: gadrielts <gadrielts@outlook.com>
+version: 1.0.0
