@@ -2,3 +2,6 @@ name: MyFirstPlugin
 main: me.gadriel.Main
 author: gadrielts <gadrielts@outlook.com>
 version: 1.0.0
+commands:
+  help:
+    description: This is a sample command.
